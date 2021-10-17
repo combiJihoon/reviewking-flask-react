@@ -21,7 +21,9 @@
 저희 팀은 이러한 문제를 해결하기 위해 '리뷰 비교 웹 서비스'를 제작하게 되었습니다.
 <br>
 <br>
-:point_right: 프론트엔드와 백엔드의 기술 스택과 API 정보는 각각 "frontend", "backend" 디렉토리의 README.md에서 확인할 수 있습니다.
+
+**:point right: 프론트엔드와 백엔드의 기술 스택과 API 정보는 각각 "frontend", "backend" 디렉토리의 README.md에서 확인할 수 있습니다.**
+
 <br>
 <br>
 
