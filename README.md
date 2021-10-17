@@ -56,7 +56,7 @@
 | 문성권 | 데이터 분석              |
 | 최유림 | 프론트엔드 개발          |
 
-<img src="https://user-images.githubusercontent.com/74451822/137622599-2c0d13a6-6a23-4d5c-bc32-e512880f44ba.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/74451822/137622599-2c0d13a6-6a23-4d5c-bc32-e512880f44ba.png" width="800px" />
 
 <br>
 <br>
